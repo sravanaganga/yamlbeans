@@ -1,0 +1,1 @@
+Please note that YamlBeans has moved to GitHub: [YamlBeans on GitHub](https://github.com/EsotericSoftware/yamlbeans)
